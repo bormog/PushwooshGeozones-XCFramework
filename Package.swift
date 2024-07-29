@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PushwooshGeozones",
-            url: "https://github.com/Pushwoosh/pushwoosh-ios-sdk/releases/download/6.5.18/PushwooshGeozones.xcframework.zip",
-            checksum: "856f29717b918b1d925ddda01c3908ebad71545dd5a65318724ecf0bedffd948"
+            url: "https://github.com/Pushwoosh/pushwoosh-ios-sdk/releases/download/6.5.19/PushwooshGeozones.xcframework.zip",
+            checksum: "5a0ded3628e6aa7c86ca6a0a0006844adb99b6d830dc22dfc990d2d2fe8809b0"
         )
     ]
 )
